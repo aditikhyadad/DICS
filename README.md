@@ -37,4 +37,5 @@ This project involves the design and implementation of a robust ETL architecture
    git clone https://github.com/aditikhyadad/DICS.git
 
 
-## Feel free to reach out to me at aditikhyadad@gmail.com
+## You can reach out to me at 
+aditikhyadad@gmail.com
