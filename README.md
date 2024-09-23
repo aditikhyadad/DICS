@@ -31,10 +31,4 @@ This project involves the design and implementation of a robust ETL architecture
 - **Database Management Systems (DBMS)**
 - **SQL**
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aditikhyadad/DICS.git
-
-
 You can reach out to me at aditikhyadad@gmail.com
