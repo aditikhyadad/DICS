@@ -1,5 +1,4 @@
-# LinkedIn Database ETL Project
-
+# LinkedIn Database using Informatica PowerCentre Tool
 ## Overview
 This project involves the design and implementation of a robust ETL architecture using Informatica PowerCenter for managing user profiles, connections, and content in a LinkedIn-like database system.
 
