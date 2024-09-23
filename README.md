@@ -35,3 +35,7 @@ This project involves the design and implementation of a robust ETL architecture
 1. Clone the repository:
    ```bash
    git clone https://github.com/aditikhyadad/DICS.git
+
+
+## Reach out to me 
+aditikhyadad@gmail.com
